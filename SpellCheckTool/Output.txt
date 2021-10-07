@@ -1,0 +1,7 @@
+Helllo, my name is dog.
+Seccond line.
+= = = Metadata = = =
+31 characters, 5 words, 2 spelling issue(s) found
+= = = Findings = = =
+Line #1, {Helllo,} - Possible suggestions are {ell,llo}
+Line #2, {Seccond} - Possible suggestions are {recond,second}
