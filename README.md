@@ -1,0 +1,2 @@
+# SpellCheckTool
+SpellCheckTool FMI Homework
